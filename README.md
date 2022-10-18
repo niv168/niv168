@@ -1,10 +1,11 @@
+[![MasterHead](https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559)](https://niv168.io)
 <h1 align="center">Hello 👋, I'm Vidhi Sinha</h1>
 <h3 align="center">A passionate and budding developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niv168&label=Profile%20views&color=0e75b6&style=flat" alt="niv168" /> </p>
 
-- 📫 Reach me **vidhisinha533@gmail.com**
+- 📫 How to reach me **vidhisinha533@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

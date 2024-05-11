@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Vidhi Sinha</h1>
 <h3 align="center">A passionate coder and budding developer </h3>
-<video align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4789906-Hi">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4789906-Hi">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niv168&label=Profile%20views&color=0e75b6&style=flat" alt="niv168" /> </p>
 

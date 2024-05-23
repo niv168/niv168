@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Vidhi Sinha</h1>
 <h3 align="center">A passionate coder and budding developer </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4789906/media/320984a9ca58b3c7321974f47e22c74b.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/83163944/333084776-d840bb74-db2d-45fa-95b9-03acc81bf816.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0NTAxMTYsIm5iZiI6MTcxNjQ0OTgxNiwicGF0aCI6Ii84MzE2Mzk0NC8zMzMwODQ3NzYtZDg0MGJiNzQtZGIyZC00NWZhLTk1YjktMDNhY2M4MWJmODE2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIzVDA3MzY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4YWJhYzRlZTdkZmRmYTAzMzc3MGY3ZjY0MWY2NjU0ZDk2YTU0MjIzMmEyNzkwZGU1OTU0MDFhNzYxODZkNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kpbW9dLEVPJ9-X6lJ7s1AOkYjFMChln8aq8tjpZdVlk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niv168&label=Profile%20views&color=0e75b6&style=flat" alt="niv168" /> </p>
 

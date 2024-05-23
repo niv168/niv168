@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Vidhi Sinha</h1>
 <h3 align="center">A passionate coder and budding developer </h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/4789906-Hi](https://dribbble.com/shots/4789906-Hi/attachments/10596812?mode=media)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4789906/media/320984a9ca58b3c7321974f47e22c74b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niv168&label=Profile%20views&color=0e75b6&style=flat" alt="niv168" /> </p>
 
